@@ -1,0 +1,443 @@
+aspire to sth;dążyć do czegoś, aspirować do czegoś
+accomplished;znakomity, utalentowany
+achievement;osiągnięcie
+activist;aktywista, aktywistka
+charisma;charyzma
+emulate;naśladować
+esteem;cenić, szanować
+gain recognition for;zdobyć uznanie
+notable;wybitny
+philanthropist;filantrop, filantropka
+put sb on a pedestal;stawiać kogoś na piedestale
+thinker;myśliciel, myślicielka
+visionary;wizjoner, wizjonerka
+well-rounded;tu: gruntownie wykształcony
+conform to;dostosować się do
+confirmity;konformizm
+define sb;określać, definiować kogoś
+distinguish;odróżniać
+have something in common with sb;mieć z kimś coś wspólnego
+identify with sb/sth;identyfikować się z kimś/czymś
+identity;tożsamość
+cultural identity;tożsamość kulturowa
+racial identity;tożsamość rasowa
+imperfect;niedoskonały
+(local) community;wspólnota lokalna
+relate to sth;identifikować się, utożsamiać, rozumieć
+self-image;obraz samego siebie
+sense of belonging;poczucie przynależności
+set sb/sth apart;odróżniać kogoś/coś
+share views/values;podzielać poglądy/wartości
+social status;status społeczny
+uniqueness;wyjątkowość
+appeal to sb;podobać się komuś
+be familiar with sth;znać coś
+be into sth;interesować się czymś
+born (dancer);urodzony (tancerz) / urodzona (tancerka)
+capable of doing sth;zdolny do zrobienia czegoś
+content with;zadowolony z
+convinced of sth;przekonany o czymś
+despise;pogardzać
+detest;nie znosić
+disapprove of sth;nie pochwalać, być przeciwnikiem czegoś
+dismiss (an idea);odrzucić (pomysł)
+expertise;wiedza specjalistyczna
+focus on;skupić się, skoncentrować na
+grasp sth;zrozumieć coś
+have a go at sth;spróbować coś zrobić
+indifferent to;obojętny na
+mastery;mistrzostwo, doskonałe opanowanie umiejętności
+proficient in/at;biegły, wprawny
+pride yourself in sth;szczycić się czymś
+regard sth as sth;uważać coś za coś
+take an interest in sth;zainteresować się czymś
+take pride in sth;szczycić się czymś
+take risks;podejmować ryzyko
+adhere to;trzymać się, stosować się do czegoś
+adjust to;dostosować się do
+altruism;altruizm
+approve of sth/smb;aprobować kogoś, akceptować coś, pochwalać
+assumption;założenie, przypuszczenie
+autonomy;autonomia
+be sceptical about;być sceptycznym wobec
+be suspicious of;być podejrzliwym wobec
+biased;stronniczy
+collaboration;współpraca
+compromise;kompromis
+contribute to sth;wnieść w coś wkład
+dignity;godność
+discriminate against sb;dyskryminować kogoś
+disobedient;nieposłuszny
+diversity;różnorodność
+empathy;empatia
+equality;równość
+inequality;nierówność
+ethical;etyczny, moralny
+ethics;etyka, moralność
+face up to sth;stawić czemuś czoło
+follow the rules;przestrzegać zasad
+form an opinion;wyrobić sobie opinię
+go with/against the flow;płynąć z prądem / pod prąd
+gratitude;wdzięczność
+human rights;prawa człowieka
+integrity;prawość
+judgement;osąd
+justice;sprawiedliwość
+keep an eye on (your goals);nie tracić celu z oczu
+liberty;wolność
+mindset;sposób myślenia
+moral principles;zasady moralne
+obedience;posłuszeństwo
+disobedience;nieposłuszeństwo
+outlook on;pogląd na
+perceive;postrzegać, dostrzegać
+perseverance;wytrwałość
+principles;wartości, zasady
+rebel against sth;buntować się przeciwko czemuś
+self-esteem;poczucie własnej wartości
+stand by your convictions;trwać przy swoich przekonaniach
+support;popierać
+take a stance on/against;trwać przy swoich przekonaniach
+wisdom;mądrość
+worldview;światopogląd
+anger;złość
+anxiety;niepokój
+disapproval;dezaprobata
+discomfort;dyskomfort
+impatience;zniecierpliwienie
+indecision;niezdecydowanie
+insecurity;niepewność
+irritation;irytacja
+shyness;nieśmiałość
+bang your fist (on a table);uderzyć pięścią (w stół)
+beckon sb;przywołyłać gestem
+bend your knees;ugiąć kolana
+blink;mrugać oczami
+clench your fists;zacisnąć pięści
+clumsy;niezgrabny
+cross your legs;skrzyżować nogi
+fidget;wiercić się
+fold your arms;skrzyżować ramiona
+frown;zmarszczyć brwi
+gesture;gest
+glance;rzucić okiem
+glare;wpatrywać się ze złością
+glimpse;spojrzeć przelotnie
+grin;uśmiechać się od ucha do ucha
+grind your teeth;zgrzytać zębami
+hands on hips;ręce na biodrach
+have your elbows on the table;opierać się łokciami o stół
+hide your face in your hands;ukryć twarz w dłoniach
+inspect;obejrzeć uważnie
+lean back;odchylać się, opierać się, rozpierać się (na krześle)
+moan;jęczeć, narzekać
+mumble/mutter;mamrotać
+peek;zerkać
+peer;przyglądać się
+point to sth;wskazywać na coś
+pout;wydymać usta, grymasić
+purse your lips;zacisnąć usta
+raise your eyebrows;unieść brwi (ze zdumienia)
+scream;wrzeszczeć, krzyczeć
+scrutinise;zlustrować
+shout;krzyczeć
+shrug your shoulders;wzruszyć ramionami
+slough;garbić się
+stand with your feet apart;stać na szeroko rozstawionych nogach
+stare;gapić się, wpatrywać się
+stretch out;rozciągnąć się
+stutter;jąkać się
+tap your fingers (on a table);bębnić palcami (w stół)
+tremble;drżeć, trząść się
+turn your back on sb;odwrócić się do kogoś plecami
+watch;obserwować
+whine;jęczeć
+whisper (in sb's ear);szeptać (komuś do ucha)
+wink at sb;mrugnąć okiem do kogoś
+yell;wrzeszczeć
+be down in the dumps;mieć chandrę, być bardzo smutnym
+be on cloud nine;być w siódmym niebie
+be over the moon;nie posiadać się ze szczęścia
+get butterflies in your stomach;mieć tremę
+go to pieces;rozsypać się
+have a chip on your shoulder;być przewrażliwionym
+wake up in a cold sweat;obudzić się zlanym zimnym potem
+annoyed;zirytowany
+anxious;niespokojny
+apprehensive;pełen obaw
+ashamed;zawstydzony
+astonished;zdziwiony
+bewildered;skonsternowany, oszołomiony
+confused;zdezorientowany
+cross;zły
+cope with sth;radzić sobie z czymś
+devastated;zdruzgotany
+discouraged;zniechęcony
+dissatisfied;niezadowolony
+elated;uszczęśliwiony
+exhausted;wyczerpany
+furious;wściekły
+gloomy;ponury
+heartbroken;zrozpaczony, załamany
+in a bad temper;zirytowany
+in the mood (for sth);w nastroju (na coś)
+long for sb/sth;tęsknić za kimś/czymś
+lose your control;stracić kontrolę
+lose your temper;stracić panowanie nad sobą
+miserable;nieszczęśliwy
+overwhelmed;przytłoczony (czymś)
+petrified;przerażony
+puzzled;zaskoczony, zdziwiony
+shattered;zdruzgotany
+tense;spięty
+terrified;przerażony
+thrilled;bardzo podekscytowany
+absent-minded;roztargniony
+adaptable;łatwo dostosowujący się
+apologetic;przepraszający
+argumentative;kłótliwy
+broad-minded;o szerokich horyzontach
+busybody;osoba wścibska
+chatty;gadatliwy
+chearful;radosny
+compassionate;współczujący
+conceited;zarozumiały
+conscientious;sumienny
+courageous;odważny
+cynical;cyniczny
+dependent;zależny, na czyimś utrzymaniu
+discreet;dyskretny
+indiscreet;niedyskretny
+dishonest;nieuczciwy
+efficient;wydajny, skuteczny
+entertaining;zabawny, wesoły
+flexible;elastyczny
+gentle;łagodny
+gullible;łatwowierny
+humble;skromny
+imaginative;obdarzony wyobraźnią
+impartial;bezstronny
+impolite;nieuprzejmy
+inconsistent;niekonsekwentny
+inefficient;niewydajny, nieskuteczny
+introvert;introwertyk
+extravert;ekstrawertyk
+kind-hearted;dobrotliwy, o wielkim sercu
+lively;żywiołowy
+malicious;złośliwy
+mature;dojrzały
+immature;niedojrzały
+moody;humorzasty
+nosy;wścibski
+open-minded;o szerokich horyzontach
+organized;zorganizowany
+disorganised;niezorganizowany
+over-ambitious;zbyt ambitny
+partial;stronniczy
+patient;cierpliwy
+impatient;niecierpliwy
+perfectionist;perfekcjonista, perfekcjonistka
+procrastinator;osoba, która wszystko odkłada na później
+punctual;punktualny
+unpunctual;niepunktualny
+rational;racjonalny
+irrational;nieracjonalny
+reasonable;rozsądny
+unreasonable;nierozsądny
+rebellious;buntowniczy
+reckless;nierozważny
+reliable;rzetelny, sumienny
+romantic;romantyczny
+rude;nieuprzejmy
+self-assured;pewny siebie
+self-centered;egocentryczny
+self-confident;pewny siebie
+self-conscious;nieśmiały, skrępowany
+self-effacing;skromny, trzymający się na uboczu
+selfless;bezinteresowny
+sensitive;wrażliwy
+insensitive;niewrażliwy
+sincere;szczery
+insincere;nieszczery
+sophisticated;wyrafinowany
+suspicious;podejrzliwy
+sympathetic;współczujący
+trustworthy;godny zaufania
+unimaginative;pozbawiony wyobraźni
+unreliable;nierzetelny, niesumienny
+unscrupulous;pozbawiony skrupułów
+vain;próżny
+withdrawn;wycofany
+blazer;marynarka, żakiet
+braces;szelki
+cape;peleryna
+cardigan;rozpinany sweter
+collar;kołnierz
+combat trousers;spodnie bojówki
+cuff;mankiet
+dressing gown;szlafrok
+evening gown;suknia wieczorowa
+hood;kaptur
+hoodie;bluza z kapturem
+joggers;wygodne spodnie np. dresowe
+jumpsuit;kombinezon
+laces;sznurowadła
+loungewear;odzież domowa
+raincoat;płaszcz przeciwdeszczowy
+tights;rajstopy
+stockings;pończochy
+sweatshirt;bluza
+trench coat;trencz
+turtle neck;golf (sweter)
+waistcoat;kamizelka
+ankle boots;botki
+athletic shoes;buty sportowe
+ballet flats;baleriny
+bow-tie;muszka
+brooch;broszka
+cuff links;spinki do mankietów
+flat shoes;buty na płaskim obcasie
+flip-flops;klapki, japonki
+necklace;naszyjnik
+pendant;wisiorek
+piercing;piercing, kolczyk
+walking boots;buty turystyczne
+wedges;buty na koturnie
+wellingtons/wellington boots/wellies;kalosze
+blend into the crowd;wmieszać się w tłum
+stand out from the crowd;wyróżniać się z tłumu
+express sb's individuality;być wyrazem czyjejś indywidualności
+dress down;ubrać się mniej formalnie niż zwykle
+dress up;wystroić się, ubrać się bardziej formalnie niż zwykle
+fold;złożyć
+let down;przedłużyć
+let out;poszerzyć
+mend;naprawić, cerować
+roll up;podwinąć
+shrink;skurczyć się
+slip on;wsunąć, narzucić
+take in;zwęzić
+take up;skrócić
+throw on;zarzucić na siebie
+turn up;podwinąć
+undo buttons;rozpiąć guziki
+untie shoes;rozwiązać buty
+walk barefoot;chodzić boso
+wrap up;owinąć się, otulić
+zip/unzip;zapiąć/rozpiąć zamek
+baggy;workowaty
+buttoned;zapięty na guziki
+creased;wygnieciony
+cropped;krótki
+faded;wypłowiały
+high-waisted;z wysokim stanem
+knee-length;do kolan
+lace;koronkowy
+lightweight;lekki
+linen;lniany
+long-sleeved;z długim rękawem
+loose-fitting;luźny
+oversized;za duży
+patent;z lakierowanej skóry
+patterned;wzorzysty
+plain;gładki, bez wzorów
+pleated;plisowany
+ripped;podarty, z dziurami
+scruffy;niechlujny
+shabby;zaniedbany
+short-sleeved;z krótkim rękawem
+skimpy;kusy
+sleeveless;bez rękawów
+stretchy;rozciągliwy, elastyczny
+striped;w paski
+suede;zamszowy
+synthetic;syntetyczny
+tight-fitting;ciasny
+tucked-in;wsunięty w spodnie/spódnicę
+unbuttoned;rozpięty
+vintage;vintage, staromodny (jako zaleta)
+v-necked;z dekoltem w serek
+woollen;wełniany
+worn-out;znoszony
+acne;trądzik
+bags;worki pod oczami
+bearded;brodaty, z brodą
+beauty spot;pieprzyk
+bushy eyebrows;krzaczaste brwi
+chapped lips;spierzchnięte usta
+clean-shaven;ogolony
+close-set eyes;blisko osadzone oczy
+deep-set eyes;głęboko osadzone oczy
+dimple;dołek (np. w policzku)
+double chin;podwójny podbródek
+hollow cheeks;zapadnięte policzki
+hook nose;haczykowaty nos
+lower/upper lip;dolna/górna warga
+pimples/spots;pryszcze
+pointed chin;ostry podbródek
+pointed nose;spiczasty nos
+puffy eyes;zapuchnięte oczy
+rosy cheeks;rumiane policzki
+scar;blizna
+snub nose;zadarty nos
+square jaw;mocno zarysowana szczęka
+sticking-out ears;odstające uszy
+stubble;kilkudniowy zarost
+lanky;tyczkowaty, chudy
+lean;szczupły, chudy
+muscular;muskularny
+overweight;z nadwagą
+petite;drobny
+slender;szczupły
+stocky;krępy
+stout;tęgi, korpulentny
+toned;umięśniony
+well-built;dobrze zbudowany
+wiry;żylasty
+balding;łysiejący
+bunches;kucyki
+bushy;puszyste, napuszone
+crew-cut;krótko przystrzyżony
+curl your hair;kręcić włosy
+dreadlocks;dredy
+dull;matowe
+fine;cienkie
+frizzy;kędzierzawe
+glossy;błyszczące
+greasy;tłuste
+greying;siwiejący
+highlights;pasemka
+perm;trwała
+pigtails;warkoczyki
+plait;warkocz
+receding hair;zakola
+split ends;rozdwojone końcówki
+(tied) in a bun;(zebrane) w kok
+wig;peruka
+adolescent;osoba w wieku dojrzewania
+adulthood;dorosłość
+ageing;starzejący się
+be in your prime;być w kwiecie wieku
+be on your deathbed;być na łożu śmierci
+grown-up;dorosły, osoba dorosła
+minor;osoba nieletnia
+newborn;noworodek
+not look your age;nie wyglądać na swój wiek
+pass away;umrzeć
+pensioner;emeryt, emerytka
+retire;pójść na emeryturę
+toddler;dziecko w wieku 1-2 lat
+turn (eighteen);skończyć (osiemnaście) lat
+underage;niepełnoletni
+youngster;młoda osoba
+youth;młodość/młodzieniec/młodzież
+citizenship/nationality;obywatelstwo
+distinguishing features;znaki szczególne
+family/last name;nazwisko
+gender/sex;płeć
+maiden name;nazwisko panieńskie
+middle name;drugie imię
+next of kin;najbliższa osoba z rodziny
+profession/occupation;zawód
+racial/ethnic group;grupa etniczna
+spouse;współmałżonek

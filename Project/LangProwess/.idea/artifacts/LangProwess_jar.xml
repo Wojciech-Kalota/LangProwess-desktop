@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LangProwess:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LangProwess_jar</output-path>
+    <root id="archive" name="LangProwess.jar">
+      <element id="module-output" name="LangProwess" />
+    </root>
+  </artifact>
+</component>
